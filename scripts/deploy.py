@@ -5,6 +5,7 @@ from scripts.helpful_scripts import (
     LOCAL_BLOCKCHAIN_ENVIRONMENTS,
 )
 
+# Check the current active local network
 print(network.show_active())
 
 
